@@ -1,5 +1,5 @@
 # Monsters-Roledex React App
-# Craeted with React
+# Created with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
