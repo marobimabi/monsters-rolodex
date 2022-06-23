@@ -49,7 +49,7 @@ class App extends Component {
 
     return (
       <div className="App">
-       <h1 className='app-title'>Pobohash Monsters </h1>
+       <h1 className='app-title'>Update Pobohash Monsters </h1>
        <SearchBox onSearchHandler={OnsearchChange} placeholder='Search Monsters' />
        <CartList monsters = {filterredMonsters }/> 
        
