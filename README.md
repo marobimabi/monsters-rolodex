@@ -1,6 +1,9 @@
 # Monsters-Roledex React App
 # Created with React
 
+![Screenshot (105)](https://user-images.githubusercontent.com/56170343/192553175-4d42f4d9-8036-4bff-856f-b7ecbb0d1558.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
